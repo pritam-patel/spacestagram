@@ -15,10 +15,7 @@ class NasaAPODService {
     const params = new URLSearchParams();
     params.append('start_date', start_date);
     params.append('end_date', end_date);
-    console.log(start_date)
-    console.log(end_date)
     return axios.get(`https://api.nasa.gov/planetary/apod?api_key=${NASA_API_KEY}`, { params }).then(res => {
-      console.log(res.data)
       return res.data
     })
     .catch(e => {

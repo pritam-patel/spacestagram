@@ -1,5 +1,6 @@
-
+---
 permalink: /public/index.html
+---
 
 ## Available Scripts
 

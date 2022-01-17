@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/spacestagram/static/css/main.36f893b0.css",
+    "main.js": "/spacestagram/static/js/main.42e6e816.js",
+    "static/media/nasa-logo.png": "/spacestagram/static/media/nasa-logo.c6d44475984e39e6edee.png",
+    "index.html": "/spacestagram/index.html",
+    "main.36f893b0.css.map": "/spacestagram/static/css/main.36f893b0.css.map",
+    "main.42e6e816.js.map": "/spacestagram/static/js/main.42e6e816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f893b0.css",
+    "static/js/main.42e6e816.js"
+  ]
+}
